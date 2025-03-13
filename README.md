@@ -51,7 +51,7 @@ namespace webhook
     }
 }
 ```
-### Webhook Endpoint Will be : > https://{Your Domain}/IPNListener
+### Webhook Endpoint Will be : https://{Your Domain}/IPNListener
 ### To check if your endpoint is publicly accessible, make a sample POST request from your local machine. For example:
 ```
 curl --location 'https://{Your Domain}/IPNListener' \
